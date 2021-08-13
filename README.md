@@ -5,7 +5,7 @@ This project is done as a part of Digital Image Processing coursework.This appli
     using 77 detected face landmarks. The images were decomposed into large scale layer, detail layer and 
     color layer through which makeup highlights and color information were transferred by weighted means and 
     alpha blending. 
-    The test results showed that the techniques work wellwith reference images of a different age, 
+    The test results showed that the techniques work well with reference images of a different age, 
     a different skin color and even a hand-sketched reference image.
     
 ![alt text](SampleImages/read.png)
@@ -21,7 +21,7 @@ This project is done as a part of Digital Image Processing coursework.This appli
 
 ## Installing
 
-      * Clone this repo in your local machine usine 'git clone https://github.com/faixan-khan/Make_Up.git'
+      * Clone this repo in your local machine usine 'git clone https://github.com/bhatiamanav/Digital_MakeUp_Face_Generation.git'
       * Install all the requirements using 'pip3 install requirements.txt'
 
 ## Images : 
